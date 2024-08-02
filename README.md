@@ -12,3 +12,10 @@ To run the simulation,
 - Open FEMM
 - Click *file->Open lua script*
 - Navigate to the resources folder and Select *rotating_MMF.lua*
+
+## Supporting vector addition example 
+Simple octave example adding three vectors 120 degree to each other and geenrating a rotating resultant vector. 
+
+Run *rotating-MMF.m* in octave to generate the images
+
+![rotating vector resultant](https://github.com/yoga-cycle/FEMM-rotating-MMF/blob/main/resources/rotating-mmf-vector.gif)
