@@ -1,9 +1,9 @@
 # FEMM-rotating-MMF
-FEMM simulation for generating rotating MMF in 3 phase AC machine.
+This page contatins supporting files for the blog post [space vector modulation explained](https://y-cyc-esc.com/motor-control-basics/2024/08/03/space-vector-modulation-explained.html)
 
 ![simulation setup screenshot](https://github.com/yoga-cycle/FEMM-rotating-MMF/blob/main/resources/femm-screenshot.png)
 
-We supply a 3 phase current to 3 phase winding in a 4 pole 24 slot machine and plot the air gap MMF.
+3 phase current supplied to a 3 phase winding in a 4 pole 24 slot machine and plot the air gap MMF.
 
 ![rotating MMF simulation](https://github.com/yoga-cycle/FEMM-rotating-MMF/blob/main/resources/MMF-rotating.gif)
 
